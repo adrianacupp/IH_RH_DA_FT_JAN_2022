@@ -130,3 +130,4 @@ dmypy.json
 Class_Materials/SQL_MYSQL/SQL_DATA_Dump_Bank.sql
 Class_Materials/Data_Visualization/Tableau/Data/AB_Testing_Case_Study_FinalMergedFile.csv
 index.gdoc
+.DS_Store
