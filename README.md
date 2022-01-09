@@ -101,6 +101,8 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td><a href="https://docs.google.com/presentation/d/1kedwx1w3LvYm5sBRXzpCJR14fs9hhE9UzfQOAJc5POE/edit?usp=sharing">[Presentation] Intro</a>
 <p>
+<br>
+<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
@@ -133,6 +135,8 @@ It is Friday!! 🥳😎✌️
    </td>
    <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
 <p>
+<br>
+<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
 <p>
 <br>
@@ -156,6 +160,8 @@ It is Friday!! 🥳😎✌️
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Bhjmj778y7hYwG7FjU6s2MaF-6brPrXt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
+<p>
+<br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_JAN_2022/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
 <p>
