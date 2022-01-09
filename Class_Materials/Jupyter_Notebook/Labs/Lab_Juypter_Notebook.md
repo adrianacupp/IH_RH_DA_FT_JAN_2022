@@ -23,7 +23,7 @@ In the notebook that you created, you will introduce someone and her/his holiday
 + Add a link to a youtube video of the destination.
 + add relevant annotations to explain any function or module you have used 
 
-### Bonus 
+### Optional 
 + create an navigable index at the top of your jupyter notebook  
 + Add titles to all sections you have created, and then create hyperlinks from the elements of the index to their corresponding section title.
 + using Jupyter Notebook Slides, try to present your solution in the slides format. 
